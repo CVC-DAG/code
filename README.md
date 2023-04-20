@@ -1,2 +1,2 @@
 # code
-Compilation of useful code related with Document Analysis Tasks
+Compilation of useful code related with Document Analysis tasks
